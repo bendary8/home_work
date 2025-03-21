@@ -3,6 +3,6 @@
 //example
 
 void main() {
-  print('what is number $number');
   int number = 10;
+  print('what is number $number');
 }
